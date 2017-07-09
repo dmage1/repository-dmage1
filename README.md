@@ -9,4 +9,9 @@ Change-004
 repository-dmage1-branch-003
 repository-dmage1-branch-004
 repository-dmage1-branch-005
+Change-006.A
+Change-006.B
+Change-006.C
+Change-006.D
+repository-dmage1-branch-005
 # repository-dmage1
